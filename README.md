@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keitran0401
+- 👋 Hi, I’m Nghia Tran.
 - 👀 I’m interested in JavaScript and React.
 - 🌱 I’m currently learning Node & Express.
 - 💞️ Besides coding, I also love music and ramen!
