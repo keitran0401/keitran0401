@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nghia Tran.
 - 👀 I’m interested in JavaScript and React.
-- 🌱 I’m currently learning Node & Express.
+- 🌱 I’m currently learning blockchain technology.
 - 💞️ Besides coding, I also love music and ramen!
 - 📫 I'm always looking forward to working on meaningful projects.
 
